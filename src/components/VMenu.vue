@@ -4,10 +4,10 @@
       <p>메뉴를 컴포넌트로 등록</p>
       <ul>
         <li>
-          <v-link href="/">Home</v-link>
-          <v-link href="/about">About</v-link>
-          <v-link href="/work">Work</v-link>
-          <v-link href="/contact">Contact</v-link>
+          <v-link href="./">Home</v-link>
+          <v-link href="./about">About</v-link>
+          <v-link href="./work">Work</v-link>
+          <v-link href="./contact">Contact</v-link>
         </li>
       </ul>
     </div>
